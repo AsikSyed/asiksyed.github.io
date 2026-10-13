@@ -170,7 +170,7 @@ export default function Home() {
             <div className="contact-panel panel">
               <div className="contact-item">
                 <span>Email</span>
-                <a href="mailto:salmansrabon@gmail.com">salmansrabon@gmail.com</a>
+                <a href="mailto:asiksyed321@gmail.com">asiksyed321@gmail.com</a>
               </div>
               <div className="contact-item">
                 <span>GitHub</span>
