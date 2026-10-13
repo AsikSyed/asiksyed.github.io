@@ -59,10 +59,7 @@ export default function Home() {
             </div>
 
             <div className="hero-card">
-              <img
-                src="https://avatars.githubusercontent.com/u/77289022?v=4"
-                alt="Asik Syed"
-              />
+              <img src="/profile-photo.svg" alt="Asik Syed" />
               <div className="card-badge">
                 <span>Available for</span>
                 <strong>Automation roles</strong>

@@ -1,0 +1,76 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portrait of Asik Syed">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#d8f3f7"/>
+      <stop offset="100%" stop-color="#cfe8f5"/>
+    </linearGradient>
+    <radialGradient id="blush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f7d7d8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f7d7d8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="1000" fill="url(#bg)"/>
+
+  <g opacity="0.8">
+    <circle cx="100" cy="120" r="60" fill="#eff9fb"/>
+    <circle cx="210" cy="60" r="48" fill="#eff9fb"/>
+    <circle cx="740" cy="110" r="70" fill="#eff9fb"/>
+    <circle cx="690" cy="870" r="70" fill="#eff9fb"/>
+    <circle cx="90" cy="880" r="78" fill="#eff9fb"/>
+    <circle cx="300" cy="930" r="55" fill="#eff9fb"/>
+    <circle cx="500" cy="120" r="56" fill="#eff9fb"/>
+    <circle cx="604" cy="160" r="38" fill="#eff9fb"/>
+    <circle cx="680" cy="280" r="52" fill="#eff9fb"/>
+    <circle cx="140" cy="700" r="54" fill="#eff9fb"/>
+  </g>
+
+  <g>
+    <ellipse cx="410" cy="510" rx="300" ry="238" fill="#b3cde5"/>
+    <path d="M182 595 L310 470 L510 470 L628 595 L600 840 L220 840 Z" fill="#5a8fcb"/>
+    <path d="M330 470 L430 470 L510 840 L360 840 Z" fill="#4b7ec4" opacity="0.8"/>
+    <path d="M350 515 L455 515 L520 760 L350 760 Z" fill="#d11d2a"/>
+    <path d="M390 520 L448 520 L466 760 L372 760 Z" fill="#b80f1c"/>
+    <path d="M390 540 L484 540 L470 760 L402 760 Z" fill="#d9232a"/>
+    <path d="M336 520 L390 520 L412 648 L338 650 Z" fill="#e8eef7"/>
+    <path d="M260 590 L330 620 L292 840 L236 840 Z" fill="#4a7dc6" opacity="0.8"/>
+    <path d="M538 590 L620 620 L640 840 L562 840 Z" fill="#4a7dc6" opacity="0.8"/>
+    <path d="M285 774 L500 774 L470 840 L305 840 Z" fill="#0d1f2d"/>
+  </g>
+
+  <g>
+    <ellipse cx="408" cy="370" rx="188" ry="225" fill="#f3d0b5"/>
+    <path d="M236 331 C260 230, 320 170, 410 170 C500 170, 564 231, 585 330 L580 361 C540 260, 484 228, 410 228 C334 228, 280 261, 236 362 Z" fill="#1d1d20"/>
+    <path d="M282 336 C318 258, 356 224, 410 222 C475 220, 529 262, 560 338 L520 358 C500 307, 466 281, 410 280 C354 281, 314 302, 290 360 Z" fill="#111214"/>
+    <path d="M302 321 C330 260, 385 225, 410 225 C455 225, 512 270, 532 320 L522 343 C478 279, 436 253, 410 253 C374 253, 336 282, 302 350 Z" fill="#101214"/>
+    <path d="M332 314 C350 286, 381 270, 410 270 C445 270, 479 290, 493 320 L470 338 C460 320, 440 308, 410 308 C380 308, 350 320, 332 336 Z" fill="#1e1c1b"/>
+
+    <ellipse cx="350" cy="385" rx="17" ry="22" fill="#2a1c16"/>
+    <ellipse cx="470" cy="385" rx="17" ry="22" fill="#2a1c16"/>
+    <circle cx="345" cy="380" r="4.5" fill="#ffffff"/>
+    <circle cx="465" cy="380" r="4.5" fill="#ffffff"/>
+    <path d="M390 423 Q410 440 433 423" stroke="#9b6a50" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M332 452 Q385 490 410 492 Q436 490 490 452" stroke="#b77d66" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+    <path d="M290 428 C318 443, 334 462, 344 479" fill="url(#blush)" opacity="0.85"/>
+    <path d="M520 428 C494 443, 480 462, 472 479" fill="url(#blush)" opacity="0.85"/>
+
+    <path d="M330 196 C350 176, 376 160, 410 160 C447 160, 476 176, 492 196 L474 225 C454 210, 427 202, 410 202 C392 202, 366 208, 347 224 Z" fill="#0d0d10"/>
+    <path d="M268 360 C286 313, 328 286, 352 285" stroke="#1d1d1e" stroke-width="8" stroke-linecap="round" fill="none"/>
+    <path d="M552 360 C534 313, 490 286, 468 285" stroke="#1d1d1e" stroke-width="8" stroke-linecap="round" fill="none"/>
+
+    <path d="M314 451 Q410 476 504 451" stroke="#d9b196" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M304 548 Q350 596 410 606 Q475 598 522 548" fill="#f0d7c1" opacity="0.82"/>
+    <path d="M326 550 Q410 585 494 550" stroke="#c88d76" stroke-width="10" fill="none" stroke-linecap="round"/>
+
+    <path d="M340 540 C360 563, 382 574, 410 576 C438 573, 460 563, 480 540" fill="#f1cdb0"/>
+  </g>
+
+  <g>
+    <path d="M332 601 L470 601 L536 849 L266 849 Z" fill="#f3f6fb" opacity="0.96"/>
+    <path d="M370 600 L450 600 L475 775 L345 775 Z" fill="#e8edf8"/>
+    <path d="M352 600 L390 600 L370 760 L325 760 Z" fill="#fff"/>
+    <path d="M410 600 L448 600 L480 760 L430 760 Z" fill="#fff"/>
+    <path d="M380 720 L425 720 L435 790 L372 790 Z" fill="#0d1118"/>
+  </g>
+</svg>
